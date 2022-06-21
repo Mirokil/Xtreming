@@ -1,5 +1,7 @@
 # Xtreming
 
+![Xtreming Thumbnail](https://user-images.githubusercontent.com/50965077/174907809-b37e7978-e878-4b46-8f63-cd1ebe8c3117.png)
+
 Developed using React Native, a popular JavaScript framework, Xtreming is a  
 cross-platform* Movie Streaming Application.
 
